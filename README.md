@@ -12,6 +12,14 @@
 
 **핵심 기능**
 
+<em>히히</em>
+
+<strong>히히</strong>
+
+<del>이성우는 잘생겼다</del>
+
+<u><em><strong>국호연은 괜찮게 생겼다.</strong></em></u>
+
 _이것도 되나1_
 
 __*이것도 되나2*__
@@ -66,6 +74,18 @@ But let's throw in a <b>tag</b>.
 - 순서 없는 목록
 - 두 번째 항목
   - 하위 항목
+
+<ol>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</ol>
+
+<ul>
+  <li>one</li>
+  <li>two</li>
+  <li>three</li>
+</ul>
 
 1. 순서 있는 목록
 2. 두 번째 항목
